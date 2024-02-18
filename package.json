@@ -7,15 +7,8 @@
       "start": "node src/app.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Sergie Code",
     "license": "ISC",
-    "devDependencies": {
-      "@types/express": "^4.17.17",
-      "@types/node": "^20.5.8",
-      "rimraf": "^5.0.1",
-      "ts-node-dev": "^2.0.0",
-      "typescript": "^5.2.2"
-    },
     "dependencies": {
       "dotenv": "^16.3.1",
       "env-var": "^7.4.1",
